@@ -11,4 +11,4 @@ brew install --cask falconsw/tap/supurucu
 Update with `brew upgrade --cask supurucu`, remove with `brew uninstall --cask supurucu`
 (add `--zap` to also delete its preferences and caches).
 
-Source: https://github.com/falconsw/supurucu
+Downloads: https://github.com/falconsw/homebrew-tap/releases
