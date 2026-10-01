@@ -1,18 +1,14 @@
-# Falconsw Tap
+# Falcon Software Homebrew Tap
 
-## How do I install these formulae?
+## Süpürücü
 
-`brew install falconsw/tap/<formula>`
+Menu bar storage reclaimer and app uninstaller for macOS 14+.
 
-Or `brew tap falconsw/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "falconsw/tap"
-brew "<formula>"
+```sh
+brew install --cask falconsw/tap/supurucu
 ```
 
-## Documentation
+Update with `brew upgrade --cask supurucu`, remove with `brew uninstall --cask supurucu`
+(add `--zap` to also delete its preferences and caches).
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Source: https://github.com/falconsw/supurucu
