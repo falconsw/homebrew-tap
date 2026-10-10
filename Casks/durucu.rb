@@ -1,6 +1,6 @@
 cask "durucu" do
-  version "1.0.0"
-  sha256 "522eb7bab4115a922e6670192c51d7f098912f45fa02e9474a0657f60ffe0421"
+  version "1.1.0"
+  sha256 "fc96fd79534292a1b52aec8cfd60a6f598407737d632152dbecd69f7a6838d99"
 
   url "https://github.com/falconsw/durucu/releases/download/v#{version}/Durucu-#{version}.dmg"
   name "Dürücü"
