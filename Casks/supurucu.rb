@@ -1,6 +1,6 @@
 cask "supurucu" do
-  version "0.4.0"
-  sha256 "cd4f28c9a8e8e44be153202e8574552855cfcccae1ef78cf2550a425e06fca7a"
+  version "0.5.0"
+  sha256 "0f95ee84a12fa83097a9373d7f0199391754a4216947ef24f3d035fb134a735e"
 
   url "https://github.com/falconsw/homebrew-tap/releases/download/supurucu-v#{version}/Supurucu-#{version}.dmg"
   name "Süpürücü"
