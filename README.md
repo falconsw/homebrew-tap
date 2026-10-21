@@ -23,3 +23,14 @@ brew install --cask falconsw/tap/durucu
 ```
 
 Source: https://github.com/falconsw/durucu
+
+## Folderpad
+
+App folders in the Dock for macOS 26+, now that Launchpad is gone: gather apps into groups that sit in
+the Dock with Launchpad-style icons, and manage every folder after the Dock's divider.
+
+```sh
+brew install --cask falconsw/tap/folderpad
+```
+
+Source: https://github.com/falconsw/folderpad
