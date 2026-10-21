@@ -1,6 +1,6 @@
 cask "folderpad" do
-  version "1.0.0"
-  sha256 "d39aaabae6ab60423018b516f3ac3b3d2608af19c33b17fc2768d7484476b78a"
+  version "1.0.1"
+  sha256 "f07fa46f103dcda55259c00836f0cce8702ab61af40a1ac0c0e7f552d3912695"
 
   url "https://github.com/falconsw/folderpad/releases/download/v#{version}/Folderpad-#{version}.dmg"
   name "Folderpad"
