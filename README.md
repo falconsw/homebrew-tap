@@ -34,3 +34,14 @@ brew install --cask falconsw/tap/folderpad
 ```
 
 Source: https://github.com/falconsw/folderpad
+
+## Kestirme
+
+Keyboard shortcut overlay for macOS 14+: hold ⌘ to see every shortcut of the frontmost app, read live
+from its menus; press ⌥⌘K to pin it, search, and run commands. Interface in Turkish.
+
+```sh
+brew install --cask falconsw/tap/kestirme
+```
+
+Source: https://github.com/falconsw/kestirme
