@@ -45,3 +45,15 @@ brew install --cask falconsw/tap/kestirme
 ```
 
 Source: https://github.com/falconsw/kestirme
+
+## Launchset
+
+Menu bar app for macOS 14+ that opens sets of apps in one click: group the apps you always open together into
+routines (Morning, Work, Evening…) and launch each set from a colored card, then it quits out of your way.
+Light and dark mode, Turkish and English.
+
+```sh
+brew install --cask falconsw/tap/launchset
+```
+
+Source: https://github.com/falconsw/launchset
