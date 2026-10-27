@@ -13,6 +13,8 @@ Update with `brew upgrade --cask supurucu`, remove with `brew uninstall --cask s
 
 Downloads: https://github.com/falconsw/homebrew-tap/releases
 
+Video (Turkish): https://skillhane.vercel.app/video/mac-sistem-verisi-temizleme
+
 ## Dürücü
 
 Archive browser for macOS 26+: look inside ZIP/7Z/RAR/TAR before extracting, extract what you need,
@@ -34,6 +36,8 @@ brew install --cask falconsw/tap/folderpad
 ```
 
 Source: https://github.com/falconsw/folderpad
+
+Video (Turkish): https://skillhane.vercel.app/video/macos-26-launchpad-klasorleri-geri-getirme
 
 ## Kestirme
 
