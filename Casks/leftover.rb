@@ -1,6 +1,6 @@
 cask "leftover" do
-  version "1.0.0"
-  sha256 "334fcaf8b179c8d2060bbb2c776618ec85baa3ecd968d8f09d95d554fde64059"
+  version "1.0.1"
+  sha256 "3a4f1a879ca7212cd795b83161af76f9e1134530704c15b70fa80eac12d1ea80"
 
   url "https://github.com/falconsw/Leftover/releases/download/v#{version}/Leftover-#{version}.dmg"
   name "Leftover"
