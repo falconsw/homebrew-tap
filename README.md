@@ -61,3 +61,15 @@ brew install --cask falconsw/tap/launchset
 ```
 
 Source: https://github.com/falconsw/launchset
+
+## Leftover
+
+Menu bar app for macOS 15+ that shows how much of your AI coding tools' usage limits is left: a ring for
+every connected account (Claude Code, Codex, Cursor, Antigravity, Copilot, Grok, OpenCode and more), read
+from the sign-ins already on your Mac, with notifications when a limit runs out or resets.
+
+```sh
+brew install --cask falconsw/tap/leftover
+```
+
+Source: https://github.com/falconsw/Leftover
